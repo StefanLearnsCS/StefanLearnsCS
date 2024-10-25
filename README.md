@@ -36,4 +36,29 @@ While I've enjoyed designing and building physical products, my deep interest in
   - Key Features: User authentication, responsive UI, and card deck customization.
   
 - **PDF Automation Tool**: A Python-based automation for creating part packages in transformer design, reducing manual work from hours to seconds.
-  - Stack: **Python**, **
+  - Stack: **Python**, **Tkinter**, **PyPDF2**
+
+- **Vancouver Passport**: A simple project showcasing local activities around Vancouver with a **React + TypeScript** frontend and a **Ruby on Rails** backend.
+
+---
+
+## 📜 **Education & Certifications**
+- **Bachelor of Science in Mechanical Engineering** – University of Saskatchewan
+- **Professional Certificates**: 
+  - Computer Science for Artificial Intelligence (edX)
+  - Data Structures & Algorithms (edX)
+  - Applied Project Management (Saskatchewan Polytechnic)
+
+---
+
+## 🎯 **Looking Forward**
+
+I’m actively seeking opportunities in **Backend Engineering** and **Full Stack Development**, where I can apply my problem-solving mindset and technical skills to build impactful software. I'm particularly interested in roles involving:
+- **Blockchain technology** and **gaming** 
+- **Web application development** with a focus on scalability and performance.
+
+---
+
+## 🌐 **Connect With Me**
+- **LinkedIn**: [linkedin.com/in/stefanilic](https://www.linkedin.com/in/stefanilic/)
+- **Email**: stefanilic@example.com
