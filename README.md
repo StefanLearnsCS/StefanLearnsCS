@@ -13,7 +13,7 @@ I have several years of experience in **custom electrical transformer design**, 
 - Conducting **Finite Element Analysis (FEA)** using **ANSYS**
 - Automating workflows for engineering teams with custom-built **Python applications**
 
-Some of my noteworthy engineering projects include:
+Some of my noteworthy software projects in the mechanical field:
 - 🛠️ Automating bill of materials (BOM) compilation, reducing manual work from **6-7 hours to 10-15 seconds**
 - 🛠️ Building Python executables that generate combined PDFs for production, cutting down process time from **3-4 hours to 5 seconds**
 
@@ -24,21 +24,17 @@ Some of my noteworthy engineering projects include:
 While I've enjoyed designing and building physical products, my deep interest in **technology** and **programming** led me to expand my skills into **software engineering**. Here’s a glimpse of my technical stack:
 
 ### 🛠️ **Tech Stack**
-- **Frontend:** React, TypeScript, HTML, CSS, Bootstrap
-- **Backend:** Express, Node.js, Django, Ruby on Rails
-- **Databases:** MySQL, PostgreSQL
-- **ORMs:** Sequelize, Prisma
-- **Tools & Platforms:** Git, Docker, Netlify, Heroku
+- **Frontend:** React, TypeScript, HTML, CSS, Bootstrap, Tailwind
+- **Backend:** Express, Node.js, Django, Flask, Electron
+- **Databases:** MySQL, PostgreSQL, SQLite
 
 ### 💡 **Recent Projects**
-- **PartyCards App**: A web application that allows users to create and share party/drinking card games.
+- **PartyCards App**: A web application that allows users to create and share party/socializing card games.
   - Stack: **React**, **Express**, **MySQL**
   - Key Features: User authentication, responsive UI, and card deck customization.
   
 - **PDF Automation Tool**: A Python-based automation for creating part packages in transformer design, reducing manual work from hours to seconds.
   - Stack: **Python**, **Tkinter**, **PyPDF2**
-
-- **Vancouver Passport**: A simple project showcasing local activities around Vancouver with a **React + TypeScript** frontend and a **Ruby on Rails** backend.
 
 ---
 
@@ -47,15 +43,15 @@ While I've enjoyed designing and building physical products, my deep interest in
 - **Professional Certificates**: 
   - Computer Science for Artificial Intelligence (edX)
   - Data Structures & Algorithms (edX)
+  - Meta Backend Development (edX)
+  - Learn JavaScript (Scrimba)
   - Applied Project Management (Saskatchewan Polytechnic)
 
 ---
 
 ## 🎯 **Looking Forward**
 
-I’m actively seeking opportunities in **Backend Engineering** and **Full Stack Development**, where I can apply my problem-solving mindset and technical skills to build impactful software. I'm particularly interested in roles involving:
-- **Blockchain technology** and **gaming** 
-- **Web application development** with a focus on scalability and performance.
+I’m actively seeking opportunities in **Software Development**, where I can apply my problem-solving mindset and technical skills to build impactful software.
 
 ---
 
